@@ -9,3 +9,4 @@ http://ai.berkeley.edu/
 ### Run the code using the command line:
 python pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
 
+![alt text](https://github.com/AndreiIM/Pacman-Reinforcement-Learning/blob/master/Capture.PNG "Sample Image")
